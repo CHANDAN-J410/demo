@@ -1,2 +1,4 @@
 # demo
-1.clone the repo
+1.This is my first repo
+<br>
+Author -Chandan
